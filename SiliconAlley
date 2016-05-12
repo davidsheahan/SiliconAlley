@@ -61,7 +61,7 @@ NEWS
 https://github.com/NYTimes
 https://github.com/DNAinfoData
 
-GITHUB PROGRAMS
+GITHUB PROGRAMS.
 
 Interact with the New York City MTA's API http://jonathanvingiano.com/blog/sandhog: https://github.com/jgv/sandhog
 Simple utility to let you know if the L train isn't running well. Uses the MTA's API. http://istheltrainfucked.com: https://github.com/jgv/is-the-L-train-fucked
